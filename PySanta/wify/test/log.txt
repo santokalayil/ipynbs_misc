@@ -1,0 +1,11 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 509D-3CF5
+
+ Directory of E:\JN\TF\PySanta\wify\test
+
+06/02/2020  12:51 AM    <DIR>          .
+06/02/2020  12:51 AM    <DIR>          ..
+06/02/2020  12:51 AM                 0 log.txt
+06/02/2020  12:51 AM             1,131 test.py
+               2 File(s)          1,131 bytes
+               2 Dir(s)   4,461,453,312 bytes free
