@@ -1,0 +1,11 @@
+sudo apt-get install exfat-fuse exfat-utils
+
+# exfat support in termial
+sudo mkdir /media/exfat
+
+sudo mount -t exfat /dev/sdc1 /media/exfat
+
+sudo umount /dev/sdc1
+
+# THIS WORKED FOR ME >> I FIRST CREAED exfat directory in mnt folder then ran the following command
+mount.exfat-fuse /dev/sdX /mnt/exfat
